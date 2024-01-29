@@ -17,5 +17,6 @@ def projects(): # projects page function
 @app.route('/contact') # contact page route
 def contact(): # contact page function
     return render_template('contact.html')
+
 if __name__ == '__main__':
     app.run(debug=True) # project debug
