@@ -1,0 +1,24 @@
+/*
+* Template Name : Hadsonpar - v1.0.1
+* Author        : www.hadsonpar.com
+*/
+
+/*-----------------------------------------------------
+    General styles
+-----------------------------------------------------*/
+:root{
+    --primary: #06A3DA;
+    --secondary: #F57E57;
+    --tertiary:  #0adf55c4;
+    --light: #EEF9FF;
+    --dark: #091E3E;    
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Nunito", sans-serif;
+}
